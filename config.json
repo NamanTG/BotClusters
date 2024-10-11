@@ -1,66 +1,19 @@
 {   
     "bot1": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/MandaliWala/TonyStark-Save-Restricted-Content.git",
+        "branch": "main",
         "env": {
             "TOKEN": ""
         },
-        "run": "run.sh"
+        "run": "bot.py"
     },
     "bot2": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/MandaliWala/N2-Public-Forward-Bot.git",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "7000575555:AAGlv8hzComLvDPVH-7Uc-RdLP_IuZrzmVg"
+            "STRING_SESSION": "1BVtsOMMBu4v5p7OSqji0gzM_RwgIE3KdkBEarGvu1KVeYVegrt2XDoQ0GNi-f0VCAImd5nsdRwp0ACueM8UQVq6PiQ0mvEuypEH-3u_1vOKkaxylr3BDLqllMES2NtnNu6NC-YGYgNPLuLJXx_qDjrmzRxjOm6o4DsajV7uvilD-VuI5ll-CVsQpdq3bLcnYz84v4rcy-GXmWyLfNu24SpuqPX6jKmPzAMMP6S955aONTPnl5tBOwA2TGwQeU3DLyufKAtI7qV71Whr1moRGUxXRFwCEctFonEXwAFdKWTbCJiW-AEX8k1A5oN6nXJ_a8ka_MI-E90qvRnfZBqnXRMyNxz9RhYE="
         },
-        "run": "run.sh"
-    },
-    "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
+        "run": "python3 -m forwardbot"
     }
 }
