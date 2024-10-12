@@ -6,22 +6,5 @@
             "BOT_TOKEN": "7098978512:AAHMV8j-r5YBSCryvWHIkMrE8vtNbbo7bxw"
         },
         "run": "bot.py"
-    },
-    "bot2": {
-        "source": "https://github.com/MandaliWala/TonyStark-Save-Restricted-Content.git",
-        "branch": "main",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "bot.py"
-    },
-    "bot3": {
-        "source": "https://github.com/MandaliWala/N2-Public-Forward-Bot.git",
-        "branch": "main",
-        "env": {
-            "BOT_TOKEN": "7000575555:AAGlv8hzComLvDPVH-7Uc-RdLP_IuZrzmVg"
-            "STRING_SESSION": "1BVtsOMMBu4v5p7OSqji0gzM_RwgIE3KdkBEarGvu1KVeYVegrt2XDoQ0GNi-f0VCAImd5nsdRwp0ACueM8UQVq6PiQ0mvEuypEH-3u_1vOKkaxylr3BDLqllMES2NtnNu6NC-YGYgNPLuLJXx_qDjrmzRxjOm6o4DsajV7uvilD-VuI5ll-CVsQpdq3bLcnYz84v4rcy-GXmWyLfNu24SpuqPX6jKmPzAMMP6S955aONTPnl5tBOwA2TGwQeU3DLyufKAtI7qV71Whr1moRGUxXRFwCEctFonEXwAFdKWTbCJiW-AEX8k1A5oN6nXJ_a8ka_MI-E90qvRnfZBqnXRMyNxz9RhYE="
-        },
-        "run": "python3 -m forwardbot"
     }
 }
