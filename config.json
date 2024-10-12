@@ -1,5 +1,13 @@
 {   
     "bot1": {
+        "source": "https://github.com/MandaliWala/FileToLink.git",
+        "branch": "main",
+        "env": {
+            "BOT_TOKEN": "7098978512:AAHMV8j-r5YBSCryvWHIkMrE8vtNbbo7bxw""
+        },
+        "run": "bot.py"
+    },
+    "bot2": {
         "source": "https://github.com/MandaliWala/TonyStark-Save-Restricted-Content.git",
         "branch": "main",
         "env": {
@@ -7,7 +15,7 @@
         },
         "run": "bot.py"
     },
-    "bot2": {
+    "bot3": {
         "source": "https://github.com/MandaliWala/N2-Public-Forward-Bot.git",
         "branch": "main",
         "env": {
